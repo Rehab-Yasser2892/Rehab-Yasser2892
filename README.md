@@ -49,7 +49,7 @@ This project strengthened my data visualization and cleaning skills.
 It demonstrated how actionable insights can help businesses improve performance and make better decisions.
 
 ### **Project Image**
-![Supermarket Sales Analysis](https://github.com/user-attachments/assets/e235ea81-ccc5-4eb0-bb59-a7b83775805b)
+![Supermarket Sales Analysis]![Image](https://github.com/user-attachments/assets/112ae723-8f38-4789-bb73-c814384b1911)
 
 ---
 
@@ -100,7 +100,7 @@ Identify the best-selling products and top-performing regions during June using 
 Improved my Python analytical skills and generated insights on customer behavior, regional performance, and product profitability—helping businesses enhance strategy and performance.
 
 ### **Project Image**
-![Clothing & Accessories Analysis](https://github.com/user-attachments/assets/848c6f0e-06d0-4745-8070-1f78d1343991)
+![Clothing & Accessories Analysis](https://github.com/user-attachments/assets/54dbf221-a62b-49bc-86e4-771ad12a161c)
 
 ---
 
@@ -108,15 +108,15 @@ Improved my Python analytical skills and generated insights on customer behavior
 
 ### 📘 1. **Data Analysis Course – Nabras Platform**
 Covered descriptive statistics, Excel, SQL, Python, Power BI, and Power Query.  
-![Data Analysis Course Certificate](https://github.com/user-attachments/assets/ee0151bd-84cd-4588-84ff-34355eae2c61)
+![Data Analysis Course Certificate]![Image](https://github.com/user-attachments/assets/4424e83d-434a-40bf-b053-6aa735cbf461)
 
 ### 📘 2. **Building a Data Analyst Mindset**
 Learned analytical thinking, BI tools, forecasting vs prediction, and core data analysis principles.  
-![Analyst Mindset Certificate](https://github.com/user-attachments/assets/f0e64c7a-e761-4237-b504-fe1ec00a0ddf)
+![Analyst Mindset Certificate]![Image](https://github.com/user-attachments/assets/778c2864-5ed9-4a48-b7dd-0c9be1f133b1)
 
 ### 📘 3. **Building Business Reports using Power BI – 365 Data Science**
 Learned to create professional business dashboards and interactive reports.  
-![Power BI Certificate](https://github.com/user-attachments/assets/ba0cb0c0-0e68-4b6a-881a-83c919f9789d)
+![Power BI Certificate]![Image](https://github.com/user-attachments/assets/e393e964-5981-4c44-89d4-da6e35e6628c))
 
 ---
 
