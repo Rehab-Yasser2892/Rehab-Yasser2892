@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 About Me
+## 🔔 About Me
 
 I am a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights that support business decisions.  
 I specialize in **data cleaning, visualization, dashboard building, KPI reporting**, and extracting actionable insights using Excel, SQL, Python, and Power BI.  
@@ -122,9 +122,8 @@ Learned to create professional business dashboards and interactive reports.
 
 # 📬 Contact Me
 
-<p align="left">
-<a href="adlalham529@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" title="Email"/>
+<a href="mailto:adlalham529@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email icon" width="50" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/rehab-yasser-183ab8306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
