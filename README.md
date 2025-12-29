@@ -103,6 +103,24 @@ Improved my Python analytical skills and generated insights on customer behavior
 ![Clothing & Accessories Analysis](https://github.com/user-attachments/assets/54dbf221-a62b-49bc-86e4-771ad12a161c)
 
 ---
+## 🔶 4. Employee Attendance & Productivity Dashboard (Excel)
+
+### **Goal**
+Analyze employee attendance, overtime, and productivity across departments to support management decisions.
+
+### **What I Did**
+* Explored and cleaned the dataset in Excel  
+* Created pivot tables and used advanced formulas  
+* Analyzed relationships between attendance, overtime, and productivity  
+* Identified high-pressure or underperforming departments  
+* Extracted actionable recommendations for management
+
+### **Outcome**
+Generated meaningful insights showing HR as the most efficient department, Finance under high workload pressure, and highlighted that efficiency matters more than overtime. Recommendations provided for optimizing workload and improving productivity.
+
+### **Project Image**
+<img width="1366" height="572" alt="Image" src="https://github.com/user-attachments/assets/94743b29-fc91-4aee-b88a-022d2fb38966" />
+
 
 # 🎓 Certificates
 
